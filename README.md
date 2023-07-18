@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="./imgs/logo.png" alt="logo" width="140"  height="auto" />
+  <img src="https://img.shields.io/badge/Microverse-blueviolet)" alt="logo" width="100"  height="auto" />
   <br/>
 
 </div>
